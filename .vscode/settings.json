@@ -1,6 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./Lesson3.py"
-    ],
-    "python.linting.enabled": true
-}
